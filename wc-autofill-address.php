@@ -1,13 +1,12 @@
 <?php
     /**
      * Plugin Name: WooCommerce Autofill Address
-     * Plugin URI: https://wisetr.com/
-     * Description:  WooCommerce Autofill Address is a Wordpress woocommerce plugin to autofill Address on checkout page by using google place api.
+     * Plugin URI:  https://wisetr.com/
+     * Description: WooCommerce Autofill Address is a WordPress woocommerce plugin to autofill Address on checkout page.
      * Version: 1.0.0
-     * Author: Wisetr
+     * Author:  Wisetr
      */
-
-    if (!defined('ABSPATH')){
+    if(!defined('ABSPATH')){
         exit;
     }
 
