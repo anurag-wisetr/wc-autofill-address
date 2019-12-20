@@ -6,7 +6,9 @@
 
     class Wc_Frontend_Autofill_Address{
 
-        private $api_key='AIzaSyCn-c5NhOBJ2NdqihFSwyj6HiCyF5BZg0Y';
+//        private $api_key='AIzaSyCn-c5NhOBJ2NdqihFSwyj6HiCyF5BZg0Y';
+        private $api_key='AIzaSyAM6NUl7EhkmnFseuEA96vQ-THwOXUdVGs';
+
 //        private $api_key='AIzaSyB16sGmIekuGIvYOfNoW9T44377IU2d2Es';
 
 
